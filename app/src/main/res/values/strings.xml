@@ -3,4 +3,10 @@
     <string name="welcome_message">Добро пожаловать в Переводчик с Французкого!</string>
     <string name="signed_in_fmt">Вы вошли как %s</string>
     <string name="signed_out">Вы вышли из аккаунта Google</string>
+    <string name="input_hint">input_hint</string>
+    <string name="translate_button_text">translate_button_text</string>
+    <string name="action_translate">action_translate</string>
+    <string name="action_dictionary">action_dictionary</string>
+    <string name="action_learning">action_learning</string>
+
 </resources>

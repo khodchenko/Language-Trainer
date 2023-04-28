@@ -1,0 +1,18 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_translate"
+        android:icon="@drawable/ic_translate"
+        android:title="@string/action_translate"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_dictionary"
+        android:icon="@drawable/ic_dictionary"
+        android:title="@string/action_dictionary"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_learning"
+        android:icon="@drawable/ic_learning"
+        android:title="@string/action_learning"
+        app:showAsAction="ifRoom" />
+</menu>
